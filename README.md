@@ -41,6 +41,7 @@ I’m always eager to learn and explore new technologies.
 - Nextjs
 - Tailwindcss
 - Materializecss
+- Expo
   
 ### Tools
 - Visual Studio Code
