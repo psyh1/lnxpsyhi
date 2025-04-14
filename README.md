@@ -53,6 +53,9 @@ I’m always eager to learn and explore new technologies.
 ### Platforms
 - Github
 
+### Technical Skills
+- Linux
+
 > If we pull together and commit ourselves, then we can push through anything.
 — *Mona the Octocat*
 
