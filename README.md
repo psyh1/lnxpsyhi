@@ -27,25 +27,4 @@ I’m a hobbyist—
 I have a keen interest in software development, robotics and ethical hacking—
 I’m always eager to learn and explore new technologies.
 
-## Skills
-
-### Programming Languages
-- Rust
-
-### Frameworks
-- 
-
-### Tools
-- Visual Studio Code
-
-### Platforms
-- Github
-
-### Technical Skills
-- Linux
-- Windows
-
-> If we pull together and commit ourselves, then we can push through anything.
-— *Mona the Octocat*
-
 <!-- TO DO: add more details about me later -->
