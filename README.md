@@ -3,12 +3,6 @@
 </div>
 
 <div align="center">
-  <a href="https://orcid.org/0009-0004-3807-423X">
-     <img src="https://img.shields.io/badge/ORCID-green?style=flat-square&logo=ORCID&logoColor=white" alt="ORCID Badge" />
-  </a>
-</div>
-
-<div align="center">
    <img src="https://komarev.com/ghpvc/?username=lnxpsyhi&style=flat-square&color=800080&label=PROFILE+VIEWS" alt="">
 </div>
 
