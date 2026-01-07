@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=lnxpsyhi&style=flat-square&color=800080&label=PROFILE+VIEWS" alt="">
+   ![](https://hit.yhype.me/github/profile?account_id=154206345)
 </div>
 
 <div align="center">
