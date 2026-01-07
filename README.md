@@ -3,9 +3,6 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rommel-matic-267528327">
-     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://orcid.org/0009-0004-3807-423X">
      <img src="https://img.shields.io/badge/ORCID-green?style=flat-square&logo=ORCID&logoColor=white" alt="ORCID Badge" />
   </a>
